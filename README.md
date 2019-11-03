@@ -22,7 +22,7 @@ Following set of steps details out on the deployment of the IoT Platform Starter
 1. Log into the IBM Cloud with your IBM id and access the ***'Catalog'***
 2. Choose to click on the **'Internet of Things Platform service'**. This can be easy found by clicking on **'Internet of Things'** from the left menu.
 
-![IoT-Service-Tile.png](https://github.com/yvesdebeer/IoT-Workshop-2019/images/IoT-Service-Tile.png)
+![IoT-Service-Tile.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Service-Tile.png)
 
 3. Click on Create to go ahead and deploy the service.
 
