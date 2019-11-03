@@ -1,4 +1,4 @@
-## Using the IBM Watson IoT platform with Node-Red and virtual sensors
+# Using the IBM Watson IoT platform with Node-Red and virtual sensors
 
 In this quick lab, you will learn howto define a sensor within the platform and simulate some sensor data which will then be used to create a dashboard for device monitoring.
 
@@ -22,7 +22,7 @@ Following set of steps details out on the deployment of the IoT Platform Starter
 1. Log into the IBM Cloud with your IBM id and access the ***'Catalog'***
 2. Choose to click on the **'Internet of Things Platform service'**. This can be easy found by clicking on **'Internet of Things'** from the left menu.
 
-![IoT-Service-Tile.png]({{site.baseurl}}/images/IoT-Service-Tile.png)
+![IoT-Service-Tile.png](https://github.com/yvesdebeer/IoT-Workshop-2019/images/IoT-Service-Tile.png)
 
 3. Click on Create to go ahead and deploy the service.
 
