@@ -35,7 +35,7 @@ Following set of steps details out on the deployment of the IoT Platform Starter
 3. Observe the Welcome page, click on the ***Launch*** button to enter into the IBM Watson IoT Platform organization space.
 	The IoT organization is a space used for connecting and managing devices to the IBM Watson IoT Platform, so that your applications can access their live and historical data.
 	
-	![IoT-Launch.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Launch.png
+	![IoT-Launch.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Launch.png)
 	
 4. Observe the right top corner of the page, where you’ll find the six character ***OrganizationID*** that is created for you
 	to identify your instance of the Watson IoT Platform service. Here you can add, connect and manage your IoT devices.
@@ -87,7 +87,7 @@ So, now we have successfully added a device in the IBM Watson IoT Platform organ
 
 In the IBM Watson IoT Platform click on ***Boards*** (top icon) in the menu on the left. You will see an overview of all the board available to you:
 
-![IoT-Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Dashboard.png
+![IoT-Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Dashboard.png)
 
 Click the **Usage Overview** board to open it. You will see a number of so-called cards containing information about your devices. 
 
@@ -106,7 +106,7 @@ Before we can use the simulation feature of the platform we need to enable it.
 
 1.	To enable simulation, on the left menu ***click on Settings***. Scroll down the page to **Device Simulator**. Activate the Device Simulator.
 
-![IoT-Device-Simulator.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Device-Simulator.png
+![IoT-Device-Simulator.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Device-Simulator.png)
 
 2.	At the bottom right you will find a tab **“0 simulations running”**. Click on it and click ***'Create Simulation'***. Select **'Thermostat'** as the device type.
 
@@ -120,7 +120,7 @@ You have now created a Simulation, but no device is using this simulation yet. S
 
 3.	Now go to the Devices page of Watson IoT Platform, click on the simulated device and check for events coming in, in the **'Recent Events'** tab of the device. 
 
-![IoT-Simulated-Device.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Simulated-Device.png
+![IoT-Simulated-Device.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/IoT-Simulated-Device.png)
 
 # 5. Create a device dashboard 
 
