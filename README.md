@@ -1,4 +1,4 @@
-# Using the IBM Watson IoT platform with Node-Red and virtual sensors
+# Using the IBM Watson IoT platform with virtual sensors
 
 In this quick lab, you will learn howto define a sensor within the platform and simulate some sensor data which will then be used to create a dashboard for device monitoring.
 
