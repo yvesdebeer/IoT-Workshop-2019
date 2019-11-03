@@ -40,7 +40,7 @@ Following set of steps details out on the deployment of the IoT Platform Starter
 4. Observe the right top corner of the page, where you’ll find the six character ***OrganizationID*** that is created for you
 	to identify your instance of the Watson IoT Platform service. Here you can add, connect and manage your IoT devices.
 	
-## Create a Device Type
+### Create a Device Type
 	
 Each device that connects to the IBM Watson IoT Platform is associated with a device type.
 Device types are intended to be groups of devices which share common characteristics. 
@@ -63,7 +63,7 @@ Define for example some attributes for **Manufacturer** and **Model**, then clic
 
 We have now successfully created a device type in IBM Watson IoT Platform organization.
 
-## Add a Device in IBM Watson IoT Platform
+### Add a Device in IBM Watson IoT Platform
 	
 A device can be defined that has a connection to the internet and has data it wants to get into the cloud and devices can accept commands from applications as well. You need to add the device in IBM Watson IoT Platform Organization before connecting it to the IoT. Carry out the following steps to add the device in IBM Watson IoT Platform,
 
@@ -83,7 +83,7 @@ A device can be defined that has a connection to the internet and has data it wa
 
 So, now we have successfully added a device in the IBM Watson IoT Platform organization.
  
-## Explore 
+### Explore 
 
 In the IBM Watson IoT Platform click on ***Boards*** (top icon) in the menu on the left. You will see an overview of all the board available to you:
 
@@ -100,7 +100,7 @@ In operational situations you will connect real devices to the Watson IoT Platfo
 
 In this section we will explore the built-in device simulation capability of the IBM Watson IoT Platform.
 
-## Enable simulation 
+### Enable simulation 
 	
 Before we can use the simulation feature of the platform we need to enable it.
 
