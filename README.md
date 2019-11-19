@@ -7,7 +7,7 @@ In this quick lab, you will learn howto define a sensor within the platform and 
 In order to work in the IBM Cloud you need to register and get an IBMid. 
 If you already have an IBMid, just log in to the IBM Cloud. Else, follow the next steps to create a free Lite account.
 
-1. Goto [IBM CLoud](https://ibm.biz/devoxx_2019)
+1. Goto [IBM CLoud](https://ibm.biz/becode_liege)
 2. Click Create an IBM Cloud account
 3. Follow the steps to create your IBMid
 
