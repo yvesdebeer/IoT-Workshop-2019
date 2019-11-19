@@ -15,7 +15,7 @@ You can now start using the IBM Cloud. Lots of the available services have a fre
 
 # 2. Deploy Internet of Things (IoT) Platform service
 
-Sign up for an [IBM CLoud](https://ibm.biz/devoxx_2019) if you don't have an IBM Cloud account yet.
+Sign up for an [IBM CLoud](https://ibm.biz/becode_liege) if you don't have an IBM Cloud account yet.
 
 Following set of steps details out on the deployment of the IoT Platform Starter service:
 

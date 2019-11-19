@@ -27,19 +27,19 @@
 #include <PubSubClient.h>
 
 // Watson IoT connection details
-#define MQTT_HOST "<YOURORG>.messaging.internetofthings.ibmcloud.com"
+#define MQTT_HOST "caterpillar.rmq.cloudamqp.com"
 #define MQTT_PORT 1883
-#define MQTT_DEVICEID "d:<YOURORG>:ESP8266:ESPButton"
-#define MQTT_USER "use-token-auth"
-#define MQTT_TOKEN "secrettoken"
-#define MQTT_TOPIC "iot-2/evt/status/fmt/json"
+#define MQTT_DEVICEID "ESP8266"
+#define MQTT_USER "fcqoovvp:fcqoovvp"
+#define MQTT_TOKEN "zlcSGbnEOSGTeMOkZ4AwCl8HFlaTTeIp"
+#define MQTT_TOPIC "temp_sensor"
 #define MQTT_TOPIC_DISPLAY "iot-2/cmd/update/fmt/json"
 
 // Update these with values suitable for your network.
 
-const char* ssid = ".......";
-const char* password = "........";
-const char* mqtt_server = "<YOURORG>.messaging.internetofthings.ibmcloud.com";
+const char* ssid = "wifi9";
+const char* password = "42805WPA2";
+const char* mqtt_server = "caterpillar.rmq.cloudamqp.com";
 const int button = 0;
 int buttonState = 0;
 
