@@ -43,8 +43,11 @@ Within the Node-Red flow editor click on the hanburger-menu in the top right cor
 
 Next click on **Install** and search for the module **node-red-dashboard** and click install.
 
-![Node-Red-Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Node-Red-Dashboard.png)
+![Node-Red-Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Node-Red-Starter.png)
 
+This will add additional UI components to the Node-Red palette
 
+Install also the additional module **node-red-node-random** as it will be used by the example flow you will import in the next step.
 
+![Node-Red-Random.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Node-Red-Random.png)
 
