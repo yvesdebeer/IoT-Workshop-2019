@@ -21,3 +21,30 @@ Following set of steps details out on the deployment of the Node-Red starter kit
 2. Choose to click on the **'Node-RED Starter'**. This can be easy found by clicking on **'Starter Kits'** from the left menu.
 
 ![Node-Red-Starter.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Node-Red-Starter.png)
+
+3. Provide a App name and click create. This will create a Node-Red instance (Node.js app within Cloud Foundry) and a Cloudant database which will be used for storing your Node-Red flows. Additionally you can also use the database for storing sensor data.
+
+Please be patient as the deployment of the Node-Red instance can take a couple of minutes.
+As soon as the deployment has finished you can click the **'Visit App URL'** to access the application.
+
+- Follow the instructions to secure your Node-Red environment by clicking **Next**
+
+- Secure your Node-Red editor by providing a **Username** and a **Password** and click **Next**
+
+- Click **Next** on the 'Browse available IBM Cloud nodes' (you will install those later)
+
+- Click **Finish** to 'Finish the install
+
+- Click **Go to your Node-RED flow editor and login using your username and password you set earlier
+
+# 3. Add the Node-Red dashboard module to the environment
+
+Within the Node-Red flow editor click on the hanburger-menu in the top right corner and click **Manage palette**
+
+Next click on **Install** and search for the module **node-red-dashboard** and click install.
+
+![Node-Red-Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Node-Red-Dashboard.png)
+
+
+
+
