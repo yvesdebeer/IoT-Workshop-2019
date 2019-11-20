@@ -53,8 +53,12 @@ Install also the additional module **node-red-node-random** as it will be used b
 
 # 4. Import the example Node-Red flow
 
-Download the example json file from http://
+Download [example.json](https://raw.githubusercontent.com/yvesdebeer/IoT-Workshop-2019/master/example.json) and save it on your local machine.
 
 Within the Node-Red flow editor click on the hanburger-menu in the top right corner and click **Import**
 
-Next click **select a file to import and select the example.json file which you can downlo
+Next click **select a file to import and select the example.json file which you can downloaded in the previous step.
+
+Next click the **Deploy** button on the top right to activate the flow.
+
+
