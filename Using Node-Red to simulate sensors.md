@@ -33,13 +33,13 @@ As soon as the deployment has finished you can click the **'Visit App URL'** to 
 
 - Click **Next** on the 'Browse available IBM Cloud nodes' (you will install those later)
 
-- Click **Finish** to 'Finish the install
+- Click **Finish** to finish the installation
 
-- Click **Go to your Node-RED flow editor and login using your username and password you set earlier
+- Click **Go to your Node-RED flow editor** and login using your username and password you set earlier
 
 # 3. Add the Node-Red dashboard module to the environment
 
-Within the Node-Red flow editor click on the hanburger-menu in the top right corner and click **Manage palette**
+Within the Node-Red flow editor click on the hamburger-menu in the top right corner and click **Manage palette**
 
 Next click on **Install** and search for the module **node-red-dashboard** and click install.
 
@@ -60,5 +60,15 @@ Within the Node-Red flow editor click on the hanburger-menu in the top right cor
 Next click **select a file to import and select the example.json file which you can downloaded in the previous step.
 
 Next click the **Deploy** button on the top right to activate the flow.
+
+# 5. Verify the flow
+
+Examine the flow components and verify the working application within the Node-Red dashboard.
+
+You can access the dashboard by selecting **Dashboard** as show in the picture below:
+
+![Dashboard.png](https://github.com/yvesdebeer/IoT-Workshop-2019/blob/master/images/Dashboard.png)
+
+
 
 
