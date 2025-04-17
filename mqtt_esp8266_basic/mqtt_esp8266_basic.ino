@@ -38,7 +38,7 @@
 // Update these with values suitable for your network.
 
 const char* ssid = "wifi9";
-const char* password = "42805WPA2";
+const char* password = "-----------";
 const char* mqtt_server = "caterpillar.rmq.cloudamqp.com";
 const int button = 0;
 int buttonState = 0;
